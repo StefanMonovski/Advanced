@@ -99,6 +99,7 @@ StyleCopReport.xml
 *.csproj
 *.sln
 *.txt
+*.png
 
 # Chutzpah Test files
 _Chutzpah*
